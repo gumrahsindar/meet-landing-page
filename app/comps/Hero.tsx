@@ -31,6 +31,7 @@ const Hero = () => {
               Meet makes it easy to connect with others face-to-face virtually
               and collaborate across any device.
             </p>
+            {/* button container */}
             <div className='flex flex-col items-center tablet:flex-row space-y-4 tablet:space-y-0 tablet:space-x-4 mt-8'>
               <button className='text-sm font-redHat font-bold text-white bg-clr-teal px-10 py-4 rounded-full '>
                 Download{' '}
