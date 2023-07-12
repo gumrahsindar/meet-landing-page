@@ -33,13 +33,13 @@ const Hero = () => {
             </p>
             {/* button container */}
             <div className='flex flex-col items-center tablet:flex-row space-y-4 tablet:space-y-0 tablet:space-x-4 mt-8'>
-              <button className='text-sm font-redHat font-bold text-white bg-clr-teal px-10 py-4 rounded-full '>
+              <button className='text-sm font-redHat font-bold text-white bg-clr-teal px-10 py-4 rounded-full hover:bg-[#71C0D4] duration-200'>
                 Download{' '}
                 <span className='text-sm font-redHat font-black text-clr-lightBlue'>
                   v1.3
                 </span>
               </button>
-              <button className='text-sm font-redHat font-bold text-white bg-clr-purple px-7 py-4 rounded-full'>
+              <button className='text-sm font-redHat font-bold text-white bg-clr-purple px-7 py-4 rounded-full hover:bg-[#B18BDD] duration-200'>
                 What is it?
               </button>
             </div>
