@@ -7,7 +7,7 @@ interface NumberProps {
 const Numbers = ({ number, marginBottom, translateY }: NumberProps) => {
   return (
     <section
-      id='numbers'
+      id='divider'
       className={`relative z-10 flex flex-col items-center mt-16 tablet:mt-20 laptop:mt-28 ${marginBottom} ${translateY} `}
     >
       <div className='border-l h-[84px]  border-clr-gray border-opacity-25 '></div>
