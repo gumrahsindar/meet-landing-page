@@ -20,7 +20,7 @@ const Footer = () => {
           className='w-full  hidden laptop:block'
         />
         <div className='absolute top-0 left-0 w-full h-full bg-clr-teal  bg-opacity-90'>
-          <div className='grid place-items-center laptop:grid-cols-3 px-6 z-10 text-center mt-24 space-y-8 laptop:space-y-0 max-w-[1440px] mx-auto'>
+          <div className='grid place-items-center laptop:grid-cols-3 px-6 z-10 text-center mt-32 tablet:mt-28 space-y-8 laptop:space-y-0 max-w-[1440px] mx-auto'>
             <h4 className=' text-lg tablet:text-xl text-clr-white font-redHat font-black  max-w-sm'>
               Experience more together
             </h4>
