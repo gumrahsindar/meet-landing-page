@@ -1,51 +1,31 @@
-# Meet landing page
+# Meet Landing Page
 
-Designed by [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) and coded by [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
+## 🚀 Features
 
-## Table of contents
+- Optimal layout depending on their device's screen size.
+- See hover states for interactive elements.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## 🛠️ Technologies Used
 
-## Overview
+- **React JS**: JS library for web and native user interfaces
+- **Tailwind**: Utility first CSS framework.
 
-### The challenge
+## 🌐 Live Demo
 
-Users should be able to:
+- <a href="https://meet-landing-page-azure.vercel.app" target="_blank">Visit Meet</a>
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+## 🌟 Lighthouse Score
 
-### Screenshot
+<div align="center">
+  <img src="./lighthouse-meet.png" alt="Lighthouse Score" width="450">
+</div>
 
-![](./Preview-1.png)
-![](./Preview-2.png)
-![](./Preview-3.png)
+## 🌄 Preview
 
-### Links
-
-- Live Site URL: [Vercel](https://meet-landing-page-azure.vercel.app)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://react.dev/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind](https://tailwindcss.com/) - For styles
+<div align="center">
+  <img src="./preview.jpg" alt="Preview" width="800">
+</div>
 
 ## Author
 
 - LinkedIn - [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
-- Frontend Mentor - [@gumrahsindar](https://www.frontendmentor.io/profile/gumrahsindar)
-- Twitter - [@gmrhsndr](https://twitter.com/gmrhsndr)
