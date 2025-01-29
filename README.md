@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies Used
 
-- **Next JS**: React frontend for the web.
+- **Next JS**: React framework for the web.
 - **TypeScript**: Type-safe development.
 - **Tailwind**: Utility first CSS framework.
 
